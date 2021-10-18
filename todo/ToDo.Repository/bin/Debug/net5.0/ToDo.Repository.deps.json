@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ToDo.Repository/1.0.0": {
+        "dependencies": {
+          "ToDo.Common": "1.0.0",
+          "ToDo.Model": "1.0.0"
+        },
+        "runtime": {
+          "ToDo.Repository.dll": {}
+        }
+      },
+      "ToDo.Common/1.0.0": {
+        "dependencies": {
+          "ToDo.Model": "1.0.0"
+        },
+        "runtime": {
+          "ToDo.Common.dll": {}
+        }
+      },
+      "ToDo.Model/1.0.0": {
+        "runtime": {
+          "ToDo.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ToDo.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ToDo.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ToDo.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Ismael Freitas\Desktop\todo\ToDo\ToDo.Common\bin\Debug\net5.0\ToDo.Common.deps.json
+C:\Users\Ismael Freitas\Desktop\todo\ToDo\ToDo.Common\bin\Debug\net5.0\ToDo.Common.dll
+C:\Users\Ismael Freitas\Desktop\todo\ToDo\ToDo.Common\bin\Debug\net5.0\ref\ToDo.Common.dll
+C:\Users\Ismael Freitas\Desktop\todo\ToDo\ToDo.Common\bin\Debug\net5.0\ToDo.Common.pdb
+C:\Users\Ismael Freitas\Desktop\todo\ToDo\ToDo.Common\bin\Debug\net5.0\ToDo.Model.dll
+C:\Users\Ismael Freitas\Desktop\todo\ToDo\ToDo.Common\bin\Debug\net5.0\ToDo.Model.pdb
+C:\Users\Ismael Freitas\Desktop\todo\ToDo\ToDo.Common\obj\Debug\net5.0\ToDo.Common.csproj.AssemblyReference.cache
+C:\Users\Ismael Freitas\Desktop\todo\ToDo\ToDo.Common\obj\Debug\net5.0\ToDo.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ismael Freitas\Desktop\todo\ToDo\ToDo.Common\obj\Debug\net5.0\ToDo.Common.AssemblyInfoInputs.cache
+C:\Users\Ismael Freitas\Desktop\todo\ToDo\ToDo.Common\obj\Debug\net5.0\ToDo.Common.AssemblyInfo.cs
+C:\Users\Ismael Freitas\Desktop\todo\ToDo\ToDo.Common\obj\Debug\net5.0\ToDo.Common.csproj.CoreCompileInputs.cache
+C:\Users\Ismael Freitas\Desktop\todo\ToDo\ToDo.Common\obj\Debug\net5.0\ToDo.Common.csproj.CopyComplete
+C:\Users\Ismael Freitas\Desktop\todo\ToDo\ToDo.Common\obj\Debug\net5.0\ToDo.Common.dll
+C:\Users\Ismael Freitas\Desktop\todo\ToDo\ToDo.Common\obj\Debug\net5.0\ref\ToDo.Common.dll
+C:\Users\Ismael Freitas\Desktop\todo\ToDo\ToDo.Common\obj\Debug\net5.0\ToDo.Common.pdb
